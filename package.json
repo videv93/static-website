@@ -4,6 +4,7 @@
     "async": "^2.1.1",
     "cosmicjs": "^2.1.2",
     "del": "^2.2.2",
+    "dotenv": "^8.2.0",
     "express": "^4.14.0",
     "handlebars": "^4.0.5",
     "metalsmith": "^2.1.0",
